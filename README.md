@@ -12,7 +12,7 @@ In my free time I'm into: Arsenal, books, fortifications, bikes, forest wilderne
 
 ## Feel free to contact me
 
-[![Email](https://ninatyminska.dev/mail-1.svg)](mailto:contact@ninatyminska.dev) [![LinkedIn](https://ninatyminska.dev/linkedin.svg)](https://www.linkedin.com/in/nina-tyminska/) [![Messenger](https://ninatyminska.dev/messenger.svg)](https://m.me/ntyminska) [![Twitter](https://ninatyminska.dev/twitter.svg)](https://twitter.com/neiranina)
+[![Email](https://ninatyminska.dev/mail-1.svg)](mailto:contact@ninatyminska.dev) [![LinkedIn](https://ninatyminska.dev/linkedin.svg)](https://www.linkedin.com/in/nina-tyminska/) [![Messenger](https://ninatyminska.dev/messenger.svg)](https://m.me/ntyminska) [![Skype](https://ninatyminska.dev/skype.svg)](https://skype:nina_tyminska?chat) [![Twitter](https://ninatyminska.dev/twitter.svg)](https://twitter.com/neiranina)
 
 ___
 
