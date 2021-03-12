@@ -2,11 +2,11 @@
 
 ## About
 
-I have degree in philosophy, but work as a front-end developer. And **I love my job**! :) Currently, I deal mostly with various CMS-es (mainly Drupal) and improve myself in React projects. 
+I have degree in philosophy, but work as a front-end developer. And **I love my job**! :heart: Currently, I deal mostly with various CMS-es (mainly Drupal) and improve myself in React projects. 
 
 In my free time I'm into: Arsenal, books, fortifications, bikes, forest wilderness, computer/console games, D&D, TV shows.
 
-Yes, I do have a ginger cat. Two cats, actually. ;)
+Yes, I do have a ginger cat. Two cats, actually. :wink:
 
 ## Technologies
 
