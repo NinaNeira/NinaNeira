@@ -12,7 +12,7 @@ In my free time I'm into: Arsenal, books, fortifications, bikes, forest wilderne
 
 ## Feel free to contact me
 
-[![Email](https://img.shields.io/badge/-nina@list.pl-FFE01B?style=flat-square&logo=Mail.ru&logoColor=black)](mailto:nina@list.pl) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nina-tyminska/) [![Messenger](https://img.shields.io/badge/-Messenger-00B2FF?style=flat-square&logo=Messenger&logoColor=white)](https://m.me/ntyminska) [![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white)] [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/neiranina)
+[![Email](https://img.shields.io/badge/-nina@list.pl-FFE01B?style=flat-square&logo=Mail.ru&logoColor=black)](mailto:nina@list.pl) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nina-tyminska/) [![Messenger](https://img.shields.io/badge/-Messenger-00B2FF?style=flat-square&logo=Messenger&logoColor=white)](https://m.me/ntyminska) [![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white)](skype:ninatyminska?chat) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/neiranina)
 
 ___
 
