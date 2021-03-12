@@ -1,4 +1,4 @@
-![Image](https://gistcdn.githack.com/ninatyminska/114cab65514c3a6170f0c16c947e60f4/raw/e889aac74daf9a9dbb239004741cc764d0bbfaec/profile_header.svg)
+<img src="https://gistcdn.githack.com/ninatyminska/114cab65514c3a6170f0c16c947e60f4/raw/e889aac74daf9a9dbb239004741cc764d0bbfaec/profile_header.svg" width="100%" height="410px" />
 
 ## About
 
