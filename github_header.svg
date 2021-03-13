@@ -38,12 +38,6 @@
 					}
 				}
 
-<!-- 				@media (prefers-color-scheme: dark) {
-					.github-header__content {
-						color: #ffffff;
-					}
-				} -->
-
 			</style>
 
 			<div class="github-header__container">
