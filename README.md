@@ -2,7 +2,7 @@
 
 ## About
 
-I have degree in philosophy, but work as a front-end developer. And **I love my job**! :heart: Currently, I deal mostly with various CMS-es (mainly Drupal) and improve myself in React projects. 
+I have degree in philosophy, but work as a front-end developer. And **I love my job**! :heart: Currently, I deal mostly with various CMS-es (mainly Drupal) and improve myself in React projects by collaborating with commercial clients from various industries - financial, culture, medical, automotive, nutrition - both in maintenance projects and in the implementation of new functionalities and entire websites.
 
 In my free time I'm into: Arsenal, books, fortifications, bikes, forest wilderness, computer/console games, D&D, TV shows.
 
