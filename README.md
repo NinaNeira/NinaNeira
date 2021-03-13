@@ -1,4 +1,4 @@
-![Nina, Front-end Developer](https://i.ibb.co/74BXsMj/nt-github-header.png)
+![Nina, Front-end Developer](https://i.imgur.com/Lt2FBn4.png)
 
 ## About
 
