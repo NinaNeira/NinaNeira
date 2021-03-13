@@ -1,4 +1,4 @@
-<img src="./github_header.svg" width="100%" height="410px" />
+![Nina, Front-end Developer](https://i.ibb.co/0ZTjgym/github-header.png)
 
 ## About
 
