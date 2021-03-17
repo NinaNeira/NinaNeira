@@ -14,7 +14,7 @@ Yes, I do have a ginger cat. Two cats, actually. :wink:
 
 ## Feel free to contact me
 
-[![Email](https://img.shields.io/badge/-nina@list.pl-FFE01B?style=flat-square&logo=Mail.ru&logoColor=black)](mailto:nina@list.pl) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nina-tyminska/) [![Messenger](https://img.shields.io/badge/-Messenger-00B2FF?style=flat-square&logo=Messenger&logoColor=white)](https://m.me/ntyminska) ![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white&link=https://github.com/ninatyminska/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/neiranina)
+[![Email](https://img.shields.io/badge/-contact@ninatyminska.dev-FFE01B?style=flat-square&logo=Mail.ru&logoColor=black)](mailto:contact@ninatyminska.dev) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nina-tyminska/) [![Messenger](https://img.shields.io/badge/-Messenger-00B2FF?style=flat-square&logo=Messenger&logoColor=white)](https://m.me/ntyminska) ![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white&link=https://github.com/ninatyminska/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/neiranina)
 
 ___
 
